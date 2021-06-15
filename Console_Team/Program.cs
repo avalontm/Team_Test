@@ -6,7 +6,7 @@ namespace Console_Team
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! LOL");
         }
     }
 }
